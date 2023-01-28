@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/LazyDeveloperr/LazyPrincess/blob/master/assets/lazyprincessbot.jpg" alt="Lazy Princess Logo">
+  <img src="https://te.legra.ph/file/1ce75b68c9584ee3769cd.jpg" alt="Anushka Bot">
 </p>
 <h1 align="center">
-  <b> Lazy Princess BOT </b>
+  <b> Anushka BOT </b>
 </h1>
 
 ## ⚡️Features
