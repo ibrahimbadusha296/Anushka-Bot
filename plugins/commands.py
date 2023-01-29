@@ -253,7 +253,7 @@ async def start(client, message):
                       InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/Anushka_004_bot")
                      ]
                     ]
-                )
+                ),
         protect_content=True if pre == 'filep' else False,
         )
                     
