@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://te.legra.ph/file/1ce75b68c9584ee3769cd.jpg" alt="Anushka Bot">
+  <img src="https://te.legra.ph/file/1ce75b68c9584ee3769cd.jpg" alt="Gal Gadot Bot">
 </p>
 <h1 align="center">
-  <b> Anushka BOT </b>
+  <b> Gal Gadot BOT </b>
 </h1>
 
 ## ⚡️Features
